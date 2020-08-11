@@ -1,4 +1,4 @@
-# Columbia workshon August 2020, for DataJoint Matlab
+# Columbia workshop August 2020, for DataJoint Matlab
 
 The materials include:
 
